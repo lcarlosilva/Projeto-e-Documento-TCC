@@ -1,4 +1,4 @@
-Projeto-e-Documenta-o-TCC
+Projeto-e-Documento-TCC
 =========================
 
-Repositorio de todo o projeto do meu TCC e a documentação.
+Repositório de todo o projeto do meu TCC e a documentação.
