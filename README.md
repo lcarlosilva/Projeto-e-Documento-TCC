@@ -1,6 +1,6 @@
 Projeto-e-Documento-TCC
-=========================
-<hr/>
+
+<b><hr/></b>
 
 <h4>Repositório de todo o projeto do meu TCC e a documentação.</h4>
 <ul>
