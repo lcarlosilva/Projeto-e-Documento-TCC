@@ -4,15 +4,15 @@ Projeto-e-Documento-TCC
 
 <h4>Repositório de todo o projeto do meu TCC e a documentação.</h4>
 <ul>
-	<li>01/set - criado o repositorio</li><br/>
+	<li><b>01/set</b> - criado o repositorio</li>
 			 iniciado escrita do relatorio
 			 	topicos desenvolvidos:
 			 <ul>	
-				 <li>-apresentacao do relatorio</li>
-				 <li>-missao empresa,</li>
-				 <li>-mercado consumidor</li>
-				 <li>-mercado consumidor</li>
+				 <li>apresentacao do relatorio</li>
+				 <li>missao empresa,</li>
+				 <li>mercado consumidor</li>
+				 <li>mercado consumidor</li>
 			 </ul>	 
 				 
-	<li>03/set - inicio da escrita da introdução</li>
+	<li><b>03/set</b> - inicio da escrita da introdução</li>
 </ul>
