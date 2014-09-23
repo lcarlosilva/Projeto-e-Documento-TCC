@@ -14,4 +14,6 @@ Projeto-e-Documento-TCC
 			 </ul>	 
 				 
 	<li><b>03/set</b> - inicio da escrita da introdução</li>
+	<li><b>09/set</b> - acrescimos na introdução</li>
+	<li><b>16/set</b> - acrescimos na introdução</li>
 </ul>
