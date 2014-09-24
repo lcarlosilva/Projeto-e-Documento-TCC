@@ -16,4 +16,11 @@ Projeto-e-Documento-TCC
 	<li><b>03/set</b> - inicio da escrita da introdução</li>
 	<li><b>09/set</b> - acrescimos na introdução</li>
 	<li><b>16/set</b> - acrescimos na introdução</li>
+	<li><b>23/set</b> - organização da estrutura
+					  - inclusão do tópico 'Organograma'
+					  - inclusão do tópico 'Histórico da Empresa'
+					  	<ul>
+					  		<li>inicio de escrita no tópico</li>
+					  	</ul>
+  	</li>
 </ul>
