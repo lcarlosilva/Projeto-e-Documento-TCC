@@ -27,4 +27,7 @@ Projeto-e-Documento-TCC
 					  -	termino da escrita no tópico 'Histórico da Empresa'<br>
 					  - escrita dos tópicos 1.4 e 1.6
 	</li>
+	<li><b>30/set</b> - inclusão do tópico 'Organograma'
+					  - acréscimo da foto no topico
+	</li>
 </ul>
